@@ -1,0 +1,6 @@
+module Hello
+  def hello(name)
+    puts "hello #{name}"
+  end
+  module_ function :hello
+  
