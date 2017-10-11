@@ -1,3 +1,4 @@
+# coding: utf-8
 #require 'grep'
 
 =begin
@@ -10,7 +11,7 @@ end
 
 def helloruby
 # bundle exec rspec --tag type:helloruby spec/ruby_novice_spec.rbでテスト 
-  print("Hello, Ruby\n")
+  print("Hello, Ruby.\n")
 end
 
 def puts_and_p
